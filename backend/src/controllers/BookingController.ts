@@ -56,7 +56,7 @@ export class BookingController {
       booking.startTime = start;
       booking.endTime = end;
       booking.totalAmount = totalAmount;
-      booking.playerNames = playerNames ? JSON.stringify(playerNames) : null;
+      booking.playerNames = playerNames ? JSON.stringify(playerNames) : undefined;
       booking.notes = notes;
       booking.status = BookingStatus.CONFIRMED; // Auto-confirm for now
 

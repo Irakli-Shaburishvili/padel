@@ -52,7 +52,7 @@ export class Booking {
   notes: string;
 
   @Column({ nullable: true })
-  playerNames: string; // JSON string of additional player names
+  playerNames?: string; // JSON string of additional player names
 
   @CreateDateColumn()
   createdAt: Date;
