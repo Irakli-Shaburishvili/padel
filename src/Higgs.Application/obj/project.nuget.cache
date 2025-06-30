@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IVJYn7zxjjXHEsM3Bw/OXDnJawM5rSPwdUTNLgnS5UCBnWfu+3fIk/ex6QmCH3l1TNvg2tvOCRJW6WKJ8X++bQ==",
+  "success": true,
+  "projectFilePath": "/home/runner/work/padel/padel/src/Higgs.Application/Higgs.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/mediatr/12.5.0/mediatr.12.5.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

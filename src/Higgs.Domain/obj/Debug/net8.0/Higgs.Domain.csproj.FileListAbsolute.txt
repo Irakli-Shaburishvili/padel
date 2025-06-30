@@ -1,0 +1,12 @@
+/home/runner/work/padel/padel/src/Higgs.Domain/bin/Debug/net8.0/Higgs.Domain.deps.json
+/home/runner/work/padel/padel/src/Higgs.Domain/bin/Debug/net8.0/Higgs.Domain.dll
+/home/runner/work/padel/padel/src/Higgs.Domain/bin/Debug/net8.0/Higgs.Domain.pdb
+/home/runner/work/padel/padel/src/Higgs.Domain/obj/Debug/net8.0/Higgs.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/padel/padel/src/Higgs.Domain/obj/Debug/net8.0/Higgs.Domain.AssemblyInfoInputs.cache
+/home/runner/work/padel/padel/src/Higgs.Domain/obj/Debug/net8.0/Higgs.Domain.AssemblyInfo.cs
+/home/runner/work/padel/padel/src/Higgs.Domain/obj/Debug/net8.0/Higgs.Domain.csproj.CoreCompileInputs.cache
+/home/runner/work/padel/padel/src/Higgs.Domain/obj/Debug/net8.0/Higgs.Domain.sourcelink.json
+/home/runner/work/padel/padel/src/Higgs.Domain/obj/Debug/net8.0/Higgs.Domain.dll
+/home/runner/work/padel/padel/src/Higgs.Domain/obj/Debug/net8.0/refint/Higgs.Domain.dll
+/home/runner/work/padel/padel/src/Higgs.Domain/obj/Debug/net8.0/Higgs.Domain.pdb
+/home/runner/work/padel/padel/src/Higgs.Domain/obj/Debug/net8.0/ref/Higgs.Domain.dll

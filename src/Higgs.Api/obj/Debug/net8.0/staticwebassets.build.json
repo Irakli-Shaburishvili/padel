@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6miIL5f5mxygsWbcAoD3cpZ11oDtvU1uakxdsZT+7kI=",
+  "Source": "Higgs.Api",
+  "BasePath": "_content/Higgs.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
