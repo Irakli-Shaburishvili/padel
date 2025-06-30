@@ -16,3 +16,5 @@
 /home/runner/work/padel/padel/src/Higgs.Infrastructure/obj/Debug/net8.0/refint/Higgs.Infrastructure.dll
 /home/runner/work/padel/padel/src/Higgs.Infrastructure/obj/Debug/net8.0/Higgs.Infrastructure.pdb
 /home/runner/work/padel/padel/src/Higgs.Infrastructure/obj/Debug/net8.0/ref/Higgs.Infrastructure.dll
+/home/runner/work/padel/padel/src/Higgs.Infrastructure/bin/Debug/net8.0/Higgs.Infrastructure.runtimeconfig.json
+/home/runner/work/padel/padel/src/Higgs.Infrastructure/obj/Debug/net8.0/Higgs.Infrastructure.genruntimeconfig.cache

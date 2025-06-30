@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Higgs.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bdd31b61b3e4b040bd5465f6bf0875d3e185c07")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47689372d03a21a834efc1126f19e81944ac1fbe")]
 [assembly: System.Reflection.AssemblyProductAttribute("Higgs.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Higgs.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

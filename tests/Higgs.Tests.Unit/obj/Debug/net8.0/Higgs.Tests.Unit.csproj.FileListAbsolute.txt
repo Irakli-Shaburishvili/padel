@@ -102,3 +102,6 @@
 /home/runner/work/padel/padel/tests/Higgs.Tests.Unit/obj/Debug/net8.0/Higgs.Tests.Unit.pdb
 /home/runner/work/padel/padel/tests/Higgs.Tests.Unit/obj/Debug/net8.0/Higgs.Tests.Unit.genruntimeconfig.cache
 /home/runner/work/padel/padel/tests/Higgs.Tests.Unit/obj/Debug/net8.0/ref/Higgs.Tests.Unit.dll
+/home/runner/work/padel/padel/tests/Higgs.Tests.Unit/bin/Debug/net8.0/MediatR.dll
+/home/runner/work/padel/padel/tests/Higgs.Tests.Unit/bin/Debug/net8.0/MediatR.Contracts.dll
+/home/runner/work/padel/padel/tests/Higgs.Tests.Unit/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
